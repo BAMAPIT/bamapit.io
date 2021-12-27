@@ -117,21 +117,21 @@ ul li, ol li {
 }
 
 .btn-border {
-  color: #137ED9;
+  color: #66b033;
   background-color: transparent;
-  border: 1px solid #137ED9;
+  border: 1px solid #66b033;
 }
 
 .btn-border:hover {
   color: #fff;
-  border-color: #137ED9;
-  background-color: #137ED9;
+  border-color: #66b033;
+  background-color: #66b033;
 }
 
 .btn-border:focus {
   color: #fff;
-  border-color: #137ED9;
-  background-color: #137ED9;
+  border-color: #66b033;
+  background-color: #66b033;
 }
 
 .btn-lg {
@@ -150,7 +150,7 @@ button:focus {
 }
 
 .icon-close, .icon-check {
-  color: #137ED9;
+  color: #66b033;
 }
 
 .social-icon a {
@@ -322,7 +322,7 @@ hr {
 }
 
 .features-box .features-icon i {
-  color: #137ED9;
+  color: #66b033;
   font-size: 30px;
 }
 
@@ -377,7 +377,7 @@ hr {
   width: 42px;
   display: block;
   height: 42px;
-  color: #137ED9;
+  color: #66b033;
 }
 
 .services-item .services-content h3 {
@@ -393,7 +393,7 @@ hr {
 }
 
 .services-item .services-content h3 a:hover {
-  color: #137ED9;
+  color: #66b033;
 }
 
 .navbar-brand {
@@ -432,11 +432,11 @@ hr {
 
 .top-nav-collapse .navbar-nav .nav-link:hover {
   cursor: pointer;
-  color: #137ED9 !important;
+  color: #66b033 !important;
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
-  color: #137ED9 !important;
+  color: #66b033 !important;
 }
 
 .indigo {
@@ -772,7 +772,7 @@ hr {
   color: #fff;
   width: 36px;
   height: 36px;
-  background: #137ED9;
+  background: #66b033;
   display: block;
   border-radius: 4px;
   line-height: 36px;
@@ -837,7 +837,7 @@ hr {
 
 #pricing .title h3 {
   text-transform: uppercase;
-  color: #137ED9;
+  color: #66b033;
   font-size: 15px;
   margin-bottom: 0px;
 }
@@ -1102,7 +1102,7 @@ hr {
 }
 
 .form-control:focus {
-  border-color: #137ED9;
+  border-color: #66b033;
   box-shadow: none;
   outline: none;
 }
@@ -1310,5 +1310,5 @@ textarea {
 }
 
 #copyright p a:hover {
-  color: #137ED9;
+  color: #66b033;
 }

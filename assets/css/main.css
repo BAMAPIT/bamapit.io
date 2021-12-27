@@ -1225,7 +1225,7 @@ textarea {
   border-radius: 50px;
   position: relative;
   height: 52px;
-  border: 1px solid #137ED9;
+  border: 1px solid #66b033;
 }
 
 .subscribe .btn-submit {
@@ -1237,7 +1237,7 @@ textarea {
 .subscribe .btn-submit i {
   width: 48px;
   height: 48px;
-  background: #137ED9;
+  background: #66b033;
   cursor: pointer;
   display: block;
   color: #fff;

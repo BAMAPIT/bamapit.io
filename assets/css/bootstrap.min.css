@@ -6,7 +6,7 @@
  */
 
  :root {
-	--blue: #007bff;
+	--blue: #66b033;
 	--indigo: #6610f2;
 	--purple: #6f42c1;
 	--pink: #e83e8c;
@@ -19,7 +19,7 @@
 	--white: #fff;
 	--gray: #6c757d;
 	--gray-dark: #343a40;
-	--primary: #007bff;
+	--primary: #66b033;
 	--secondary: #6c757d;
 	--success: #28a745;
 	--info: #17a2b8;
@@ -4957,7 +4957,7 @@ tbody.collapse.show {
 	padding: .5rem .75rem;
 	margin-left: -1px;
 	line-height: 1.25;
-	color: #007bff;
+	color: #66b033;
 	background-color: #fff;
 	border: 1px solid #dee2e6
 }
